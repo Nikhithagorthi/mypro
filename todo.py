@@ -1,0 +1,2 @@
+print("Todo App")
+tasks = []
